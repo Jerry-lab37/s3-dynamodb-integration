@@ -1,5 +1,8 @@
-# s3-dynamodb-integration
-Step-by-step guide and Lambda code for integrating Amazon S3 with DynamoDB
+                                                     # AWS Integration: S3 and DynamoDB with Lambda
+
+This guide demonstrates how to integrate Amazon S3 and DynamoDB using an AWS Lambda function. We'll set up an S3 bucket, a DynamoDB table, and a Lambda function that processes files uploaded to the S3 bucket and stores their metadata in DynamoDB.
+
+
 **Step 1: Create an S3 Bucket**
 
 1. **Navigate to the S3 Console**:
